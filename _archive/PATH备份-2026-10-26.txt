@@ -1,0 +1,1 @@
+D:\AI\hermes-agent\.venv314\Scripts;D:\AI\Python314\Scripts\;D:\AI\Python314\;C:\Users\cqs6017\AppData\Local\Programs\Python\Launcher\;C:\Users\cqs6017\.local\bin;C:\Users\cqs6017\AppData\Local\Microsoft\WindowsApps;C:\Users\cqs6017\AppData\Local\GitHubDesktop\bin;D:\AI\Codex;D:\AI\OpenCode;C:\Users\cqs6017\AppData\Roaming\npm

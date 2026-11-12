@@ -1,0 +1,26 @@
+[
+  {
+    "Name": "edgeupdate",
+    "DisplayName": "Microsoft Edge Update Service (edgeupdate)",
+    "StartMode": "Auto",
+    "State": "Stopped"
+  },
+  {
+    "Name": "QiyiService",
+    "DisplayName": "IQIYI Video Platform Service",
+    "StartMode": "Auto",
+    "State": "Running"
+  },
+  {
+    "Name": "QQLiveService",
+    "DisplayName": "QQLiveService",
+    "StartMode": "Auto",
+    "State": "Stopped"
+  },
+  {
+    "Name": "WifiAutoInstallSrv",
+    "DisplayName": "Wifi AutoInstall Service",
+    "StartMode": "Auto",
+    "State": "Running"
+  }
+]

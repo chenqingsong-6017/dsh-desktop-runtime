@@ -1,0 +1,6 @@
+node_modules/
+.dsh-vision-router/
+backup/_deleted-*/
+Thumbs.db
+desktop.ini
+*.log
